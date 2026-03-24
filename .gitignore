@@ -1,0 +1,10 @@
+.idea/
+*.iml
+/.mvn/
+/target/
+*.log
+*.class
+.DS_Store
+.settings/
+**/target/
+**/*.log
